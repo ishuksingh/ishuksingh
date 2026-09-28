@@ -125,8 +125,8 @@ o **[Enterprise Customer Onboarding at Workato](https://buildwithishu.com/#case-
 ---
 ### 🏅 Awards & Recognition
 
-🏆 Recognized on stage at the Samsara All Hands by the VP and CIO
+🏆 [Recognized on stage at the Samsara All Hands by the VP and CIO](https://www.linkedin.com/feed/update/urn:li:activity:7377302714252197888/)
 
-🏆 Top Influencer, Workato 2024 Learning Drive
+🏆 [Top Influencer, Workato 2024 Learning Drive](https://www.linkedin.com/feed/update/urn:li:activity:7163736772147957760/)
 
 🏆 Completed 250+ hour Data Science & ML program, Consulting & Analytics Club, IIT Guwahati
