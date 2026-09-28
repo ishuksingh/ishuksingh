@@ -49,9 +49,9 @@
 
 <img align="center" src="https://streak-stats.demolab.com?user=ishuksingh&theme=nightowl&hide_border=true" alt="GitHub streak" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishuksingh&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true" alt="GitHub stats" />
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ishuksingh&theme=nightowl" alt="GitHub stats" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishuksingh&layout=compact&theme=nightowl&hide_border=true" alt="Top languages" />
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ishuksingh&theme=nightowl" alt="Top languages" />
 
 ---
 ### 📖 Featured Work
