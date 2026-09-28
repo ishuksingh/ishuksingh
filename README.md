@@ -21,31 +21,53 @@
 ---
 ### 👨‍💻 About Me
 
-👋 Hi, I'm Ishu Kumar Singh, an **Enterprise AI Automation Architect** and Senior Business Application Engineer II at **Samsara**, based in Bengaluru. I've spent 8+ years building integrations and automation at Samsara, Workato, Cloudely, 1218 Global, and Accion Labs. At Samsara I lead the Centre of Excellence for Workato Orchestrate and the Workato ONE agentic platform. That covers our Enterprise MCP strategy and the integration architecture across BizTech.
+> **Moving enterprises from static workflows to governed, AI-powered, multi-agent automation.**
 
-#### 💡 My Expertise
+👋 Hi, I'm Ishu Kumar Singh, a **Workato-certified Integration Consultant** with **8+ years** in enterprise applications. At **Samsara**, I lead the **Workato ONE Agentic Platform and Enterprise MCP Strategy**. The goal is to replace traditional point-to-point integrations with modular automation built on AI and multiple agents.
 
-✅ **Workato & iPaaS**: Workato ONE, Orchestrate, Workbot for Slack, API Platform, RecipeOps
+I build platforms where **teams build on their own while following central standards**: governed, reusable, and ready for production. Before Samsara I was a Solutions Consultant at Workato, so I know the platform from both the vendor and the customer side.
 
-✅ **Agentic AI & MCP**: Enterprise MCP strategy, custom MCP servers, multi-agent orchestration (Genie), A2A, MCP gateway evaluation (Amazon Bedrock AgentCore)
+#### ⚡ Highlights
 
-✅ **Order-to-Cash**: Salesforce ↔ NetSuite account, order, returns, and cancel/replace integrations
+🔹 **80+ BizTech users** across 4 teams governed on Workato ONE through SCIM + SAML RBAC
 
-✅ **HR & Identity**: Workday HCM, Greenhouse, Okta, Google Workspace, ServiceNow, SCIM provisioning
+🔹 **Enterprise MCP catalog**: Workato-native MCPs in a 47-tool AI catalog, with an MCP Registry on Amazon Bedrock AgentCore
 
-✅ **Also worked with**: Bullhorn, Paychex, JIRA, Slack, SharePoint, Splunk, MuleSoft, REST/HTTP APIs, Platform Events, Python, Java
+🔹 **MuleSoft → Workato migration** of Salesforce ↔ NetSuite Order-to-Cash with **zero disruption**
 
-#### 🚀 Leadership & Impact
+🔹 **18 enterprise customers taken live in 12 months** at Workato with a **9.5 CSAT**
 
-🔹 Lead the Workato ONE Centre of Excellence at Samsara (platform vision, governance, and enablement for 80+ users)
+#### 💡 What I Specialize In
 
-🔹 Led the **MuleSoft → Workato migration** of Salesforce ↔ NetSuite O2C integrations with zero disruption, including an event-driven account sync with Splunk observability
+✅ AI-powered automation on agentic platforms (**Workato ONE**)
 
-🔹 Built **Nexus Genie**, an AI assistant for integration ops: log analysis, troubleshooting, and field-mapping recommendations, available in Slack
+✅ **Enterprise MCP strategy**: modular, governed, reusable capabilities
 
-🔹 Delivered Zscaler's **SuccessFactors → Workday** integration cutover: automated onboarding, offboarding, and Greenhouse → Workday hire/rehire/transfer
+✅ **Multi-agent orchestration** and intelligent workflow design
 
-🔹 Run Workato Office Hours and design reviews; mentor engineers on the Workato platform
+✅ Enterprise integration architecture and **iPaaS (Workato)**
+
+✅ Platform governance, scalability, and production readiness
+
+#### 🚀 What I'm Currently Driving
+
+🔹 A **Centre of Excellence (CoE)** model for automation and AI
+
+🔹 **Department-level ownership of MCPs** under central governance
+
+🔹 Scalable, reusable integration and automation frameworks
+
+🔹 Standards for service accounts, access control, and security
+
+🔹 Adoption of **AI-assisted operations** and self-service automation
+
+#### 🧭 My Approach
+
+Platform thinking + deep technical expertise + business context, so every solution is:
+
+![Scalable](https://img.shields.io/badge/Scalable-2ea44f?style=flat-square) ![Governed](https://img.shields.io/badge/Governed-0A66C2?style=flat-square) ![Secure](https://img.shields.io/badge/Secure-D14836?style=flat-square) ![Reusable](https://img.shields.io/badge/Reusable-8250DF?style=flat-square) ![Future-ready](https://img.shields.io/badge/Future--ready-F29111?style=flat-square)
+
+🛠️ **Tools I work with:** Workato ONE · Salesforce (CPQ) · NetSuite · Workday HCM · Greenhouse · Okta · ServiceNow · Splunk · MuleSoft · Slack · Amazon Bedrock AgentCore · REST APIs · Python
 
 ---
 ### 🔥 My Stats
